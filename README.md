@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cyril-Mathew
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning JavaScript
 
 <!---
 Cyril-Mathew/Cyril-Mathew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
